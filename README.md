@@ -22,7 +22,7 @@ Football Scores : An app that tracks current and future football matches (soccer
 
 ## Screens
 
- ![Application screen 1](https://github.com/josmarycarrero/Super-Duo/blob/master/screenshots/screen1.png
+ ![Application screen 1](https://github.com/josmarycarrero/Super-Duo/blob/master/screenshots/screen1.png)
 
  ![Application screen 2](https://github.com/josmarycarrero/Super-Duo/blob/master/screenshots/screen2.png)
 
